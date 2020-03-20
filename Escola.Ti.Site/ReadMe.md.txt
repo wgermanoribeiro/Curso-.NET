@@ -1,0 +1,1 @@
+Essa é uma aplicação ASP.Net Core MVC
